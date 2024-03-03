@@ -10,7 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "intersection-observer": "^0.12.2",
     "nuxt": "^3.10.3",
+    "scrollama": "^3.2.0",
     "vue": "^3.4.19",
     "vue-router": "^4.3.0"
   },
